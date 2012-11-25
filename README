@@ -1,0 +1,11 @@
+tailxf.pl  README "Centralised Log File Monitoring" Plus.
+
+Perl script to '/bin/tail -f' many files at once.
+Plus
+ Centralise to a single timestamped file
+ skulk files
+ etc.
+
+AUTHOR - Matthew Hargreaves
+LICENCE - Apache
+ZZ
